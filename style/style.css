@@ -1,0 +1,29 @@
+.image-element-class {
+	margin: 2px;
+
+}
+.image-element-class img {
+	width: 300px;
+}
+.showPage {
+	margin: 10px 0px;
+	width: 100%;
+}
+
+.showPage img{
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+.text-help {
+	color: red;
+}
+
+form .btn {
+	margin: 5px 5px 0 0;
+}
+
+.add-button {
+	background-color: #F0F8FF;
+	width: 40%;
+}
