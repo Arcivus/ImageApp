@@ -5,7 +5,7 @@ export const FETCH_PICTURE = 'FETCH_PICTURE';
 export const DELETE_PICTURE = 'DELETE_PICTURE';
 export const CREATE_PICTURE = 'CREATE_PICTURE';
 
-const ROOT_URL = 'http://secret-spire-27125.herokuapp.com/api/posts';
+const ROOT_URL = 'https://secret-spire-27125.herokuapp.com/api/posts';
 
 export function fetchPictures() {
 	const request = axios.get(ROOT_URL);
